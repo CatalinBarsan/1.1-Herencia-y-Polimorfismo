@@ -1,8 +1,5 @@
 package Nivel01.Ejercicio01;
-
-import Nivel01.Ejercicio01.main.java.com.modules.InstrumentoCuerda;
-import Nivel01.Ejercicio01.main.java.com.modules.InstrumentoPercución;
-import Nivel01.Ejercicio01.main.java.com.modules.InstrumentoViento;
+import Nivel01.Ejercicio01.main.java.com.modules.*;
 
 public class Main {
 

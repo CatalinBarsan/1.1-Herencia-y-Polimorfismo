@@ -1,6 +1,6 @@
 package Nivel01.Ejercicio01.main.java.com.modules;
 
-public abstract class Instrumento {
+abstract class Instrumento {
 
     protected String nombre;
     protected double precio;
@@ -18,5 +18,6 @@ public abstract class Instrumento {
         this.precio = precio;
     }
 
-    public abstract void tocar();
+   public
+   abstract void tocar();
 }
