@@ -13,7 +13,7 @@ public class Main {
 
         InstrumentoViento viento = new InstrumentoViento("Flauta",509.90);
         InstrumentoCuerda cuerda = new InstrumentoCuerda("Guitarra",599.90);
-        InstrumentoPercución percusion = new InstrumentoPercución("Bateria", 850.99);
+        InstrumentoPercusión percusion = new InstrumentoPercusión("Bateria", 850.99);
 
 
         System.out.println("\nTocando los instrumentos:");

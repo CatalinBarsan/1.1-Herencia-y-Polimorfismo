@@ -1,7 +1,7 @@
 package Nivel01.Ejercicio01.main.java.com.modules;
 
 
-public class InstrumentoPercución extends Instrumento {
+public class InstrumentoPercusión extends Instrumento {
 
     static {
 
@@ -9,7 +9,7 @@ public class InstrumentoPercución extends Instrumento {
 
     }
 
-    public InstrumentoPercución(String nombre, double precio) {
+    public InstrumentoPercusión(String nombre, double precio) {
 
         super(nombre, precio);
 
