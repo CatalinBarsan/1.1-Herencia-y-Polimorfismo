@@ -48,7 +48,7 @@ En una redacción de noticias deportivas, se deben gestionar redactores y las no
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/nombre-repositorio.git
+   git clone https://github.com/CatalinBarsan/1.1-Herencia-y-Polimorfismo.git
    ```
 2. **Abrir el proyecto en IntelliJ IDEA**:
    - Abre IntelliJ IDEA.
