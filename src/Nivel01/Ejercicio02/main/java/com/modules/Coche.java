@@ -1,7 +1,9 @@
 package Nivel01.Ejercicio02.main.java.com.modules;
 
 public class Coche {
-    public static final String marca = "Toyota";
+
+
+    public static String marca = "Toyota";
     public static String modelo;
     public final int potencia;
 
@@ -17,5 +19,18 @@ public class Coche {
 
     public void accelerar(){
         System.out.println("El vehiculo esta accelerando");
+    }
+
+    public String getMarca(){
+        return marca;
+    }
+
+    public int setMarca(String marca){
+        this.marca = marca;
+    }
+
+    public int setPotencia(int potencia){
+        this.potencia = potencia;
+        return potencia;
     }
 }
