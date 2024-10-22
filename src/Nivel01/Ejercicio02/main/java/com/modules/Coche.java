@@ -25,12 +25,8 @@ public class Coche {
         return marca;
     }
 
-    public int setMarca(String marca){
+    public void setMarca(String marca){
         this.marca = marca;
     }
 
-    public int setPotencia(int potencia){
-        this.potencia = potencia;
-        return potencia;
-    }
 }
