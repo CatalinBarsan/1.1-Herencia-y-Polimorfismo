@@ -19,7 +19,6 @@ public class Main {
         Coche coche2 = new Coche(154);
         System.out.println(coche2.marca+ " " + coche2.modelo + " " + coche2.potencia);
 
-        coche2.set
-
+        
     }
 }
